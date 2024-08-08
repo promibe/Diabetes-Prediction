@@ -1,2 +1,2 @@
 # Diabetes Prediction
-Classifying Patient Diabetes
+Classifing Patient with Diabetes and Non-diabetes
